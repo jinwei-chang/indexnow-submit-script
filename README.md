@@ -1,0 +1,1 @@
+# indexnow-submit-script
